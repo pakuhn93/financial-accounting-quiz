@@ -1,0 +1,7 @@
+#flashcard {
+    border: solid;
+}
+
+#flashcard > div {
+    border: solid;
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "term": "Asset",
+        "definition": "Stuff we have"
+    },
+    {
+        "term": "Liability",
+        "definition": "Stuff we owe"
+    },
+    {
+        "term": "Stockholder's Equity",
+        "definition": "Our company's value"
+    },
+    {
+        "term": "Revenue",
+        "definition": "How much money we made"
+    },
+    {
+        "term": "Expense",
+        "definition": "How much money we spent"
+    }
+]

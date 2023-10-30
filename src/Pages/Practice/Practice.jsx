@@ -7,10 +7,10 @@ export default function Practice(){
     return (
         <section id="sectionPractice">
             <h1>BUS 120 Practice</h1>
-            <p>&emsp;{textPractice}</p>
+            <p>{textPractice}</p>
             <section id="linksPractice">
-                <Link to="/practice/accounts">Account Problems</Link>
-                <Link to="/practice/flashcards">Flashcards</Link>
+                <Link to="/practice/accounts" className="links">Account Problems</Link>
+                <Link to="/practice/flashcards" className="links">Flashcards</Link>
             </section>
         </section>
     );

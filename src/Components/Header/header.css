@@ -1,4 +1,10 @@
 header {
     display: flex;
     justify-content: space-evenly;
+    margin-bottom: 1em;
+}
+
+.links {
+    padding: 0.5em;
+    border: solid;
 }

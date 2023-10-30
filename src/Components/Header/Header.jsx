@@ -4,8 +4,8 @@ import "./header.css";
 export default function Header(){
     return (
         <header>
-            <Link to="/">Home</Link>
-            <Link to="/practice">Practice</Link>
+            <Link to="/" className="links">Home</Link>
+            <Link to="/practice" className="links">Practice</Link>
         </header>
     );
 }

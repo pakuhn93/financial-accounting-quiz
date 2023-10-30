@@ -30,8 +30,7 @@ export default function Flashcards(){
     return (
         <section id='flashcard' onClick={() => clickCard(event)}>
             <h1>Flashcards (click me!)</h1>
-            {front ? (<div>{card.term}</div>) : (<div>{card.definition}</div>)}
-            <div></div>
+            {front ? (<div>Term: {card.term}</div>) : (<div>Definition: {card.definition}</div>)}
         </section>
     );
 }

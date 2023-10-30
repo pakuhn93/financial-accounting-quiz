@@ -1,13 +1,14 @@
 #linksPractice {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 h1 {
     text-align: center;
 }
 
-p {
+#sectionPractice {
+    text-align: center;
     margin-left: 25em;
     margin-right: 25em;
 }

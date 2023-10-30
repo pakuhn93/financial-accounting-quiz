@@ -1,5 +1,11 @@
 #sectionHome {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    align-items: center;
+}
+
+#textIntro {
+    margin: 0;
+    width: 300px;
+    text-align:center;
 }
